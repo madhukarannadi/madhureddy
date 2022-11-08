@@ -1,1 +1,8 @@
 This is Clear
+
+
+this is line 4th from E
+
+this is line
+
+git commit
